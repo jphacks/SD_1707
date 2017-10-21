@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = ./client/
+[submodule "picam"]
+	path = picam
+	url = ./picam/
+[submodule "server"]
+	path = server
+	url = ./server/
