@@ -1,9 +1,9 @@
 [submodule "client"]
 	path = client
-	url = ./client/
+	url = https://github.com/jphack2017yano/client.git
 [submodule "picam"]
 	path = picam
-	url = ./picam/
+	url = https://github.com/jphack2017yano/picam.git
 [submodule "server"]
 	path = server
-	url = ./server/
+	url = https://github.com/jphack2017yano/server.git
