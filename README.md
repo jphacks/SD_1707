@@ -1,6 +1,6 @@
 # Photori
 
-[![Photori](https://youtu.be/CQaESGy9XAU)
+[![Photori](https://youtu.be/CQaESGy9XAU)]
 
 ## 製品概要
 ### Photogenic Tech
